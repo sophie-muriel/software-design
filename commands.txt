@@ -1,1 +1,8 @@
-git commands
+Comandos en Git
+1. git init: inicializa un repositorio local.
+2. git status: indica el estado de los archivos en el repositorio local.
+3. git add: añade los archivos modificados del directorio local al estado de preparación.
+4. git commit -m "Mensaje": toma los archivos modificados en estado de preparación (en el directorio local) y los guarda al realizar una "captura" con un breve mensaje al repositorio local.
+5. git push: sube los archivos del repositorio local al repositorio remoto.
+6. git clone: clona un repositorio remoto a un directorio local.
+7. 
