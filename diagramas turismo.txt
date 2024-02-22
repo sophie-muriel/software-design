@@ -1,0 +1,1 @@
+Enlace de los diagramas del sistema de información de guía turística: https://miro.com/app/board/uXjVNrXzIZs=/?share_link_id=989839353440
